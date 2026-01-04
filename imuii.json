@@ -1,0 +1,11 @@
+{
+  "name": "balancesiaga",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "balancesiaga",
+  "email": "zakierpalevi038@gmail.com",
+  "secretKey": "imuii_f7ce929434113f285a56773e273188d9a7d8b39530f93b17e1a4ae611c62f543",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/balancesiaga-901c4e02.git"
+}
